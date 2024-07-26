@@ -1,7 +1,9 @@
 Bank Account Demo
+
 This project is a simple C++ application that simulates a basic bank account management system. Users can either log in to an existing account or sign up for a new account. Once logged in, they can view their account information, add or check their balance, view their last transactions, and check their balance with accrued interest.
 
 Project Features
+
 Login & Signup: Users can log in to their existing accounts or sign up for new ones.
 Account Information: Users can view their account details, including their name, account number, age, gender, address, and account creation date.
 Add Balance: Users can add a desired amount to their account balance.
@@ -12,7 +14,6 @@ Usage
 Clone the repository:
 
 bash
-
 git clone https://github.com/psc856/Bank_Account-_Demo-2024-.git
 Install dependencies (if any).
 
